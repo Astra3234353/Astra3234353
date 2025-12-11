@@ -60,7 +60,7 @@ API desarrollada en Python para interpretar lenguaje de señas a partir de video
 
 ## 🏗️ Proyectos Personales
 
-[![Repo](https://img.shields.io/badge/FullStack-Personal%20Finance%20App-success?style=for-the-badge&logo=react&logoColor=white)](sumka.cloud)
+[![Repo](https://img.shields.io/badge/FullStack-Personal%20Finance%20App-success?style=for-the-badge&logo=react&logoColor=white)](https://sumka.cloud/)
 _Sistema de rastreo financiero construido con arquitectura desacoplada (Django REST + React, con AUTH JWT) Sumka.cloud._
 [![Repo](https://img.shields.io/badge/NASA_Hackathon-Meteor_Madness_App-E67E22?style=for-the-badge&logo=nasa&logoColor=white)](https://nasa-space-apps-asteroid-repo.vercel.app/)
 _Aplicación Full Stack desarrollada en su totalidad para el reto "Meteor Madness". Visualización y análisis de datos de asteroides._
