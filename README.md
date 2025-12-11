@@ -1,4 +1,4 @@
-# ¡Hola, soy un Futuro Data Scientist & MLOps Engineer! 👾
+# ¡Hola, soy un Futuro Data Scientist & MLOps Engineer!
 
 _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 
@@ -8,12 +8,11 @@ _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 ---
 
 ### 🚀 Sobre mí
-Estudiante de **Ciencia de Datos e Inteligencia Artificial** (1er Semestre) en México. Me apasiona crear arquitecturas robustas usando **Django** y **Docker**, mientras domino el Frontend con **React**.
+Estudiante de **Ciencia de Datos e Inteligencia Artificial** en México. Me apasiona crear arquitecturas robustas usando **Django - FastAPI** y **Docker**, implementando un frontend **React**.
 
-* 🔭 Actualmente trabajando en: **App de Finanzas Personales (Full Stack)**.
+* 🔭 Actualmente trabajando en: **SUMKA.cloud (Full Stack)**.
 * 🌱 Aprendiendo profundamente: **Cálculo, Estadística y MLOps**.
 * 👯 Buscando colaborar en: Proyectos de **Open Source** y Hackathons.
-* ⚡ Dato curioso: Me encantan las guitarras de cuerdas de nylon y el helado de limón (pero que no empalague).
 
 ---
 
