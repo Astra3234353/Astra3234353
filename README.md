@@ -1,4 +1,4 @@
-# ¡Hola, soy un Futuro Data Scientist & MLOps Engineer!
+# ¡Hola, soy Alex, un Futuro MLOps Engineer!
 
 _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 
@@ -8,11 +8,11 @@ _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 ---
 
 ### 🚀 Sobre mí
-Estudiante de **Ciencia de Datos e Inteligencia Artificial** en México. Me apasiona crear arquitecturas robustas usando **Django - FastAPI** y **Docker**, implementando un frontend **React**.
+Estudiante de **Ciencia de Datos e Inteligencia Artificial** en México. Me apasiona crear arquitecturas robustas usando **Django - FastAPI** y **Docker**, implementando un frontend **React**, cuidando la seguridad e integridad del sistema ante todo.
 
 * 🔭 Actualmente trabajando en: **SUMKA.cloud (Full Stack)**.
-* 🌱 Aprendiendo profundamente: **Cálculo, Estadística y MLOps**.
-* 👯 Buscando colaborar en: Proyectos de **Open Source** y Hackathons.
+* 🌱 Aprendiendo profundamente: **MLOps y las bases matematicas para modelos IA**.
+* 👾 Buscando colaborar en: Proyectos de **Open Source** y Hackathons.
 
 ---
 
@@ -32,6 +32,7 @@ Estudiante de **Ciencia de Datos e Inteligencia Artificial** en México. Me apas
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://docs.pmnd.rs/react-three-fiber)
 [![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 
@@ -52,13 +53,16 @@ Estudiante de **Ciencia de Datos e Inteligencia Artificial** en México. Me apas
 
 **Meteor Madness Reporter**
 Participación en el NASA Space Apps Challenge. Desarrollo de un reporte técnico sobre el desafío de meteoros.
+
 **Sign Language AI (Hackathon)**
 API desarrollada en Python para interpretar lenguaje de señas a partir de video en tiempo real.
 ---
 
 ## 🏗️ Proyectos Personales
 
-[![Repo](https://img.shields.io/badge/FullStack-Personal%20Finance%20App-success?style=for-the-badge&logo=react&logoColor=white)](LINK_A_TU_REPO_DE_FINANZAS)
+[![Repo](https://img.shields.io/badge/FullStack-Personal%20Finance%20App-success?style=for-the-badge&logo=react&logoColor=white)](sumka.cloud)
 _Sistema de rastreo financiero construido con arquitectura desacoplada (Django REST + React, con AUTH JWT) Sumka.cloud._
+[![Repo](https://img.shields.io/badge/NASA_Hackathon-Meteor_Madness_App-E67E22?style=for-the-badge&logo=nasa&logoColor=white)](https://nasa-space-apps-asteroid-repo.vercel.app/)
+_Aplicación Full Stack desarrollada en su totalidad para el reto "Meteor Madness". Visualización y análisis de datos de asteroides._
 
 ---
