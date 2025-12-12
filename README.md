@@ -3,8 +3,10 @@
 _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 
 [![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-3F51B5?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Backend Developer](https://img.shields.io/badge/-Backend%20Dev-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-
+[![Software Developer](https://img.shields.io/badge/-Software%20Developer-000000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Full Stack](https://img.shields.io/badge/-Full%20Stack-4CAF50?style=for-the-badge)](#)
 ---
 
 ### 🚀 Sobre mí
