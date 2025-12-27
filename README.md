@@ -3,9 +3,10 @@
 _Construyendo el puente entre el Desarrollo Web y la Inteligencia Artificial_
 
 [![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-3F51B5?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Software Developer](https://img.shields.io/badge/-Software%20Developer-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](#)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Full Stack](https://img.shields.io/badge/-Full%20Stack-4CAF50?style=for-the-badge)](#)
 ---
 
